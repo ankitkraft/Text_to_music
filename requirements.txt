@@ -1,4 +1,4 @@
-torch==2.2.0
+torch==1.13.1
 streamlit==1.17.0
 diffusers==0.26.3
 riffusion==0.0.5
